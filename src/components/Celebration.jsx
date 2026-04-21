@@ -55,7 +55,8 @@ const Celebration = () => {
                 className="p-4 bg-rose-50/50 rounded-xl border border-dashed border-rose-200"
               >
                 <p className="text-slate-800 font-bold">Come back to BLR fast... I need a hug! 🥹</p>
-                <p className="text-rose-400 text-xs mt-1">I love you more than words can say.</p>
+                <p className="text-rose-400 font-medium">I love you more than words can say.</p>
+                <p className="text-rose-400 text-xs mt-1">I don't want to give you some random gift rather tell me what you want from me.</p>
               </motion.div>
             )}
           </AnimatePresence>
