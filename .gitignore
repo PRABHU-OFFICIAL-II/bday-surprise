@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+src\assets\Image_1.jpg
+src\assets\Image_2.jpg
+src\assets\Image_3.jpg
