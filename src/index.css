@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Force everything to fill the screen */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden; /* Prevents unwanted scrolling */
+}
+
+body {
+  background-color: #fff1f2; /* Soft rose background */
+}
